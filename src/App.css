@@ -96,7 +96,7 @@ body {
 
 @media (max-width: 768px) {
   body {
-    height: 110dvh;
+    height: 120dvh;
   }
   .navbar ul {
     display: flex;
