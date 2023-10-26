@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Forma/static/css/main.75d1f2d0.css",
+    "main.js": "/Forma/static/js/main.470e7b20.js",
+    "static/js/787.a2cb173e.chunk.js": "/Forma/static/js/787.a2cb173e.chunk.js",
+    "static/media/heroImage.jpg": "/Forma/static/media/heroImage.601fcd091cc7647e684d.jpg",
+    "index.html": "/Forma/index.html",
+    "main.75d1f2d0.css.map": "/Forma/static/css/main.75d1f2d0.css.map",
+    "main.470e7b20.js.map": "/Forma/static/js/main.470e7b20.js.map",
+    "787.a2cb173e.chunk.js.map": "/Forma/static/js/787.a2cb173e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d1f2d0.css",
+    "static/js/main.470e7b20.js"
+  ]
+}
